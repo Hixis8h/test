@@ -1,0 +1,4 @@
+fruits = []
+fruits.append("apple")
+fruits.append("banana")
+print(fruits)
